@@ -5,6 +5,6 @@ elsif "HI!"
   puts "HUH?! SPEAK UP,SONNY!"
 else "WHAT DID YOU EAT TODAY?"
   puts "NO, NOT SINCE 1938!"
-else speak_to_grandma=="I LOVE YOU GRANDMA"
+else "I LOVE YOU GRANDMA"
   puts "I LOVE YOU TOO PUMPKIN!"
 end
