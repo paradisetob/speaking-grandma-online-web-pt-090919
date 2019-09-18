@@ -1,6 +1,9 @@
-speak_to_grandma=I LOVE YOU TO PUMPKIN
-if "I LOVE GRANDMA!
+speak_to_grandma="I LOVE YOU GRANDMA"
+if speak_to_grandma=="I LOVE YOU GRANDMA!
   puts "I LOVE YOU TOO PUMPKIN!"
+elsif eat=="HAVE YOU ATE?"
+  puts "HUH?! SPEAK UP,SONNY!"
+else "NO, NOT SINCE 1938!"
 end
 
 # Whatever you say to grandma, she should respond with
