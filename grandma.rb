@@ -1,4 +1,5 @@
-def speak_to_grandma
+if speak_to_grandma
+  
 end
 
 # Whatever you say to grandma, she should respond with
