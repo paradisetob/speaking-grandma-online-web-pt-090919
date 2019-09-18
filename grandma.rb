@@ -1,5 +1,5 @@
 if speak_to_grandma
-  
+  puts
 end
 
 # Whatever you say to grandma, she should respond with
