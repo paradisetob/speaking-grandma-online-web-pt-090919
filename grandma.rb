@@ -1,6 +1,6 @@
-speak_to_grandma="'Hi Nana, how are you?'"
+speak_to_grandma="I LOVE YOU GRANDMA"
 if speak_to_grandma=="'Hi Nana, how are you?'"
-  puts "I LOVE YOU TOO PUMPKIN!"
+  puts "HUH?! SPEAK UP,SONNY!"
 elsif ""
   puts "HUH?! SPEAK UP,SONNY!"
 else "NO, NOT SINCE 1938!"
